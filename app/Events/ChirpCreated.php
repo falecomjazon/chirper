@@ -22,6 +22,7 @@ class ChirpCreated
     public function __construct(public Chirp $chirp)
     {
         //
+        
     }
 
     /**
